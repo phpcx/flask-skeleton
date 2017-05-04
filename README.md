@@ -1,11 +1,17 @@
-# Flask Skeleton
+# Flask Skeleton to use in web applications at Box
 
-Flask starter project...
-
-[![Build Status](https://travis-ci.org/realpython/flask-skeleton.svg?branch=master)](https://travis-ci.org/realpython/flask-skeleton)
+Language Python3
 
 ## Quick Start
 
+This app uses css and js libraries, below:
+ - [Bootstrap 3](http://getbootstrap.com/)
+ - [SweetAlert](http://t4t5.github.io/sweetalert/)
+ - [Font Awesome](http://fontawesome.io/)
+ - [jQuery](https://jquery.com/)
+ - [jQueryUI](https://jqueryui.com/)
+  
+ 
 ### Basics
 
 1. Create and activate a virtualenv
