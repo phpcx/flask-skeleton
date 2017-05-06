@@ -9,9 +9,7 @@ This app uses css and js libraries, below:
  - [SweetAlert](http://t4t5.github.io/sweetalert/)
  - [Font Awesome](http://fontawesome.io/)
  - [jQuery](https://jquery.com/)
- - [jQueryUI](https://jqueryui.com/)
-  
- 
+
 ### Basics
 
 1. Create and activate a virtualenv
@@ -41,10 +39,27 @@ $ python manage.py create_admin
 $ python manage.py create_data
 ```
 
+### Install dependencies bower
+$ cd ./project/client/static
+$ bower install
+
+
 ### Run the Application
 
 ```sh
 $ python manage.py runserver
+```
+
+or (Windows only)
+
+```sh
+$ ./start_server.bat
+```
+
+or Start in background mode (Windows only)
+
+```sh
+$ ./start_server_background.vbs
 ```
 
 So access the application at the address [http://localhost:5000/](http://localhost:5000/)

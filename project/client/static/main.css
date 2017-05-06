@@ -1,5 +1,8 @@
 /* custom css */
+.hero-spacer {
+    margin-top: 50px;
+}
 
 .site-content {
-  padding-top: 75px;
+  padding-top: 15px;
 }

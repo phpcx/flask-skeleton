@@ -1,0 +1,46 @@
+{
+  "name": "static",
+  "homepage": "https://github.com/phpcx/flask-skeleton",
+  "authors": [
+    "Rodrigo Prado de Jesus <royopa@gmail.com>"
+  ],
+  "description": "flash-site static folder",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^1.3.3",
+    "AngularJS": "angular-latest#^1.5.7",
+    "bootstrap": "^3.3.6",
+    "bootswatch": "^3.3.6",
+    "d3": "^4.1.1",
+    "datatables-bootstrap3": "*",
+    "datatables-tabletools": "^2.2.4",
+    "datatables.net-plugins": "^1.10.12",
+    "datatables.net": "^1.10.12",
+    "font-awesome": "^4.6.3",
+    "highcharts": "highcharts.com#^4.2.5",
+    "highlight-js": "^9.5.0",
+    "jquery": "^2.2.4",
+    "magnific-popup": "^1.1.0",
+    "moment": "^2.14.1",
+    "reveal.js": "^3.3.0",
+    "select2-bootstrap-theme": "^0.1.0-beta.8",
+    "select2": "^4.0.3",
+    "jszip": "^3.0.0",
+    "pdfmake": "^0.1.20",
+    "angular": "angular2#^1.5.7",
+    "sweetalert": "^1.1.3",
+    "bootstrap-sweetalert": "^1.0.0",
+    "datatables.net-bs": "^1.10.12",
+    "datatables.net-buttons-bs": "^1.2.1",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47"
+  }
+}
